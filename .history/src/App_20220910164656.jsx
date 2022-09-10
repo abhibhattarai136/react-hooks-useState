@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <button onClick={decrementCount}>-</button>
-      <h1>Count is {count}</h1>
+      <h1>Count is {count}.</h1>
       <button onClick={incrementCount}>+</button>
     </div>
   );
